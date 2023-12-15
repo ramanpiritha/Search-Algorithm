@@ -98,9 +98,9 @@ else:
 ![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/d806ef60-cc47-48c7-98f8-3bbad2428764)
 
 ##Output
-![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/cc8fb4e4-b122-4e2d-8f7b-7969ed627f01)
-![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/c440b981-41ae-405e-99d2-f14ceb5a6c41)
-![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/758b6e10-ac68-4406-bd95-8697fd84f610)
+![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/cc8fb4e4-b122-4e2d-8f7b-7969ed627f01).
+![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/c440b981-41ae-405e-99d2-f14ceb5a6c41).
+![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/758b6e10-ac68-4406-bd95-8697fd84f610).
 
 
 
