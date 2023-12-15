@@ -95,11 +95,16 @@ else:
     print(f"Element not found")
 ```
 ## Sample Input and Output
+![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/d806ef60-cc47-48c7-98f8-3bbad2428764)
 
 ##Output
-![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/a4cabdfc-9f2f-4ea8-b931-9cb66e5f046d)
-![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/26e72722-804d-41cb-bf03-131866b10592)
-![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/c8ee58ba-9efb-4a99-b78c-b6d97907a0ce)
+![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/cc8fb4e4-b122-4e2d-8f7b-7969ed627f01)
+![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/c440b981-41ae-405e-99d2-f14ceb5a6c41)
+![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/758b6e10-ac68-4406-bd95-8697fd84f610)
+
+
+
+
 
 
 
