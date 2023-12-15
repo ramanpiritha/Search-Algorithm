@@ -21,8 +21,8 @@ i)	#Use a linear search method to match the item in a list.
 ```
 Program for linear search method to match the item in a list
 Developed by:Piritharaman R
-RegisterNumber:23013537
-```
+RegisterNumber: 23013537
+'''
 def linearSearch(array,n,k):
     for i in range(0,n):
         if(array[i]==k):
@@ -38,6 +38,7 @@ if result != -1:
     print(f"Element found at index:  {result}")
 else:
     print(f"Element not found ")
+
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
@@ -70,7 +71,7 @@ else:
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
 Program to find the element in a list using Binary Search (recursive Method).
-Developed by:Piritharaman R
+Developed by: Piritharaman R
 RegisterNumber: 23013537
 '''
 def binarysearch(array, k, low, high):
@@ -94,21 +95,10 @@ if result!=-1:
 else:
     print(f"Element not found")
 ```
-## Sample Input and Output
-![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/d806ef60-cc47-48c7-98f8-3bbad2428764)
-
 ##Output
-![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/cc8fb4e4-b122-4e2d-8f7b-7969ed627f01).
-![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/c440b981-41ae-405e-99d2-f14ceb5a6c41).
-![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/758b6e10-ac68-4406-bd95-8697fd84f610).
-
-
-
-
-
-
-
-
+![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/64b288a2-92c8-42c8-a6ad-32fbc39390e2)
+![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/5aa5fa34-640a-49e3-8477-92f04f15db3e)
+![image](https://github.com/ramanpiritha/Search-Algorithm/assets/147084116/d295ab13-5ce1-45a8-9553-bfa8259742fc)
 
 
 ## Result
